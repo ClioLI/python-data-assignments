@@ -27,3 +27,6 @@
 
 #7.Future work
 # For a thorough analysis, I am going to enrich my dataset by crawling microblogs which are searched with more keywords related to MeToo.
+
+#8. Reference 
+# https://github.com/hupili/python-for-data-and-media-communication/blob/master/scraper-selenium/Weibo.ipynb 
